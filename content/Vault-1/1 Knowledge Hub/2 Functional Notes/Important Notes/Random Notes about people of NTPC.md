@@ -1,0 +1,2 @@
+- Current GM o&m of jajjar, suar, was from kaniha EMD hod, his son from IIM Indore, now started a company
+- 

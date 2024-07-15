@@ -1,0 +1,26 @@
+- when  Ramesh sinha GM in kaniha, when Awadesh, N C patra and J K tripathy were in ASCE,SCE and ASCE respectively
+- Somebody called Jaydev Nanda Adani a person used to work in NTPC now working in Adani, due to his exemplary work, he is being allowed to work even after retirement at Adani- He is frieind of [[Pradeep Das]]
+- Hari om sir who was in Group-D, is from Mauda, he worked in Erection department there, and so there he devopled good relations, many people from Mauda became RED or directors kind of big cadre, so he is able to do jugaad and got transferred to Noida after working 1 year in Kaniha - as it is rule atleast work 1 year - now working in RE, Aditya talked to him, to know about whether to apply for this recent RE posts, and he found that it is not good, as the postings will be into green projects of RE of NTPC
+
+- Salomi
+	- Salomi, now went to MTP, when she asks GM O&M or HOP for her department change
+	- a  baby girl , isha something
+	- husband working in Infosys bhubaneswar, comes and goes on weekends
+	- She also suffered baby milk problem
+	- her leave- as she got complication from the start of 2nd month, but her maternity leave comes in account only after delivery, before delivery some 2 months or some less period is given, so she had to consume all her leaves of SAL, EL, HPL etc. 
+	- After delivery she took almost 1 year leave, her maternity leave period has been consumed
+	-  and as she consumed all her leaves and stuff, she used to get very less salary also around 20k something
+- A Bihar guy met in train
+	-  from Patna in train, he works in railways in Group-D post,
+	- about education in kerala very very good, more than private schools
+	- , he works at ulippi station, he has two sons it seems
+	- medical faciliites are also very good in kerela, governement hospitals is where everyone goes, private hospitals are kind of rare to find, unless in cities, and the staff in goverment hospitals also very amicable
+- About yokogawa sangeeth
+	- salary 2.4lpa, bangalore- worked in many yokogawa places, 23 age, native- selam,
+	- yokogawa in NTPC at  vindyachal, barh, kudgi - he worked in iocl - yokogawa, 
+	- he was given only one month training, then directly to site
+- Senapaty sir children took training in this allen institute
+	- ![](https://i.imgur.com/RxPGUew.png)
+
+- Sarkar
+	- Got trasnfered to 

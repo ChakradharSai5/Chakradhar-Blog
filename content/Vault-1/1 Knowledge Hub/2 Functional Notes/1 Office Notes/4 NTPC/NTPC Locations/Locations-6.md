@@ -1,0 +1,14 @@
+- [[Ravi Teja]] said, vindhyachal has very good school - DPS, it is famous for that
+- vindhyachal, singrauli, are near by, banaras is the nearest city kind of far, nearest air port is also from there.
+- bermuda triangle plants are very much connected
+- [[Ravi Teja]] is now in singrauli, his and vindhyachal is a river bank away, 
+- His father story - #pending 
+- [[Aayush NTPC]] has his home, he is from bihar, has many plants near by, including these plants in northen
+- Got to know about these plants nearby [[Aayush NTPC]] home and note near by cities there #UrgentThing 
+- Sulay who got training in BHEL on nuclear, I think bangalore, later got posted in mumbai or somewhere #pending , now recently Hitesh contacted him to ask about BHEL training, as Hitesh thinking to applying, Sulay said, soon they will be postedin nuclear side of NTPC mostly erection, so hitesh cancelled his plan apply for nuclear
+- Subratanu sarkar who was in our group-B St-2 applied in HR and so got transferred to Mines called Badam, Corporate communications
+	- which is in odisha mentioned in [[Mining]]
+- Sujeet who used be here in Kaniha Group-D got transferred to HR dept in dulanga minese mentioned in [[Mining]]
+- Sukanta mandal got transfereed to Kanti bihar
+- Kanti in Bihar
+	- a JV with Bihar goverement, aquired in 2018, got stopped in 2003, established in some 80s

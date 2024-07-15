@@ -1,0 +1,1 @@
+- Oil temperature high alarm and reset is at 55DegC and 50DegC respectively

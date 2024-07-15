@@ -1,0 +1,30 @@
+- calorie split of about 27% protein, 33% fat and 40% carbs.
+- Carbs are highly beneficial. They are directly involved in building muscle. Carbs restock muscle glycogen and promote anabolism. Carbs boost insulin and reduce excess cortisol. Carbs also increase energy so you can train harder.
+    - carbs help increase and promote serotonin, which helps with sleep. So going low carb, sleep usually suffers big time.
+    - carbs promote higher testosterone levels in men
+- have a mix of each macronutrient (protein, carbs and fats, veggies, added flavour) at each meal
+- The Refeed Day
+    - Once per week, you can boost your calorie intake up by 600 calories
+    - By doing a weekly refeed you will up-regulate leptin, the hormone that controls metabolism, appetite, and energy levels.
+    - recommend getting the extra 600 calories primarily from carbs. This is because carbs have the strongest effect on replenishing glycogen, up-regulating leptin, and shifting your body into a state of anabolism
+    - Don’t think of the refeed as a "cheat day". Cheat days are horrible. They promote a bad relationship with food
+    - Cheat days teach you nothing but gluttony.
+- The Muscle Up Phase
+    - After about 12 weeks of disciplined cutting, it’s critical to take a 4 week diet break. This is where you bring calories up to around maintenance levels.
+    - You see after a period of undereating, our body is essentially primed to pack on muscle when you up the calories.
+    - During this 4 week phase, you will notice pretty amazing muscle and strength gains
+    - The beauty of this also is that when you go back to the lower calories, fat loss is massively accelerated.
+- IF YOU HAVE 20-30+ POUNDS TO LOSE
+    - Months 1, 2, and 3 Saturday-Thursday:
+        - Calories: 12x bodyweight in pounds
+        - Protein: 27% of total calories
+        - Fat: 33%
+        - Carbs: 40% Friday (refeed day):
+        - Add an additional 600 calories
+    - Month 4 (Muscle-Up Phase)
+        - Calories 15x bodyweight in pounds
+        - Protein: 25% of total calories
+        - Fat: 30% of total calories
+        - Carbs: 45% of total calorie
+    - And repeat the same till you get fat around 15%
+- eat slowly and consciously

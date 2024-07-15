@@ -1,0 +1,12 @@
+ ### Definitions of Terms
+- Projects
+	- Group of Tasks linked to common goal 
+	- and clear cut end time, at least a rough dead line date
+- Spheres of Activity
+	- As standard of lifestyle  to be maintained over a period of time, which will have a not so specific, clear cut Tasks, however very important standard to be maintained 
+- Joyful interests
+	- Interests that while learning/spending time on it with it will be in state of flow
+	- Interests that makes you genuinely curious excites you to know clearly about it
+- Functional notes
+	- Things you are suppose to know based on your role, but you don't HAVE to feel flow on it
+	- Things that keep you functional to make you have time for your joyful interests

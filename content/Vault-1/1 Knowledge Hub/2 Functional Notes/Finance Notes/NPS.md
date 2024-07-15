@@ -1,0 +1,64 @@
+# NPS
+
+- NPS cutting every month 8.99% of Basic plus DA
+- NPS cutting on 5th of every month
+- NPS Tier1 & Tier 2 accounts
+    - Tier 1 means a regular retirement account
+    - Tier 2 individual savings, like mutual funds
+- Tier-1 - max 2lakh tax benifit
+    - Under 80C
+        - 80CCDD(1)- 1.5Lakh(which already has ppf,lic etc), with an exempt of max 10% of Basic+ A
+    - 80CCD(1B) - max 50k contribution
+    - 80CCD(2)- _**Employer**_ contribution up to max of 10% of Basic +DA
+        - Not calculated under taxable income so benefit
+- There is a choice of active and auto in it, you can choose any
+    - Auto means it will ask for category in in it
+        - Aggressive
+        - Moderate
+        - Conservative
+    - Active means you have ot actively choose the percentage that is into equity, corporate and govt bonds
+- NPS- WITHD>RAWL RULES
+    - Only tier-1 account, tier -2 you can do whenever you want
+        - Max 25% of _**own**_ contribution
+            - Not intrest of your contribution
+            - Not company contribution
+        - Min after 3 years
+        - Max 3 times in lifetime
+            - Each time 25% of current contributions
+        - Reason should be given proper
+            - Self declaration, no proof needed
+    - Tier 2
+        - No withdrawl limit
+        - As many times as you want
+        - No minimum period restriciton
+        - Only exception in TSS scheme
+            - Then 3 year lockin
+            - If only death then before 3 year withdrawl
+    - NPS - EXIT
+        - Govt employee, private employee/self employed
+            - At 60 years, superannuation
+                - From total 40% annuity purchase
+                    - Can be deferrer(postponed) upto 3 years
+                    - During deferred period if death of user
+                        - Govt employee- no change, still compulsion of annuity
+                        - Private employee- lumpsum given to nominee, no annuity compulsion
+                - 60% lumpsum - tax free- given to hand,
+                    - Can be deferred upto age of 70 years
+                    - During defered period if death of user
+                        - If govt- amount given to nominee
+                        - If private- amount given to nominee
+                - Same rule govt, private employees
+                - If < 5lakh , can withdrawl total
+            - Before superannuation -premature exit
+                - 80% to annuity
+                - 20% lumpsum withdrawl
+                - No holding period for govt. employee
+                - Private employee - minimum 10 year holding period
+            - Death of user
+                - 80% to annuity - only govt. employee
+                - 20% lumpsum withrawl - only govt. employe
+                - Private employee- 100% lumpsum withrawl
+            - Physical disability of user
+                - Same rules as superannuation
+            - After 60 years, you can continue upto 70 years
+- Private or self-employee

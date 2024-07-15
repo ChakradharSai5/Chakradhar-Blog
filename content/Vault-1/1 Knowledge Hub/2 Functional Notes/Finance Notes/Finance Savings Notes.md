@@ -1,0 +1,5 @@
+- Ntpc Defined contribution pension trust done upto may 2022, both employee and employer were used to contribute, my total sum was 3.5lakh transferred to NPS(0.5lakh of employee &3lakh of employer)
+-  Next furniture claim available from November 2024. Around 35k
+- I have chosen HDFC in NPS, fortunately it is not a small company, it is with market capitalisation of 151billion dollars or 12.38 lakh crores, fifth largest bank by market cap 
+- by Apr 2024 NPS has 8lakh 30k around
+- Gold loan is at 8.6%, and taken july 10 2023, so shall be due on same date 2024.

@@ -1,0 +1,98 @@
+### **Orange Box 1** -RULE:***All are in working condition*** 
+- Cover-1
+    - LG Watch
+    - Sony Mic
+    - Logitech mouse(that's in pair with wireless keyboard )
+    - Logitech mouse (with only single)
+    - Joystick usb (Joystick is at misc cover 2)
+- All Cables cover
+- Bajaj Iron Box
+- Cover-2
+    - Yellow Screw driver kit
+    - Sravya Casio calculator
+    - kindle
+    - TDS meter
+    - MI watch
+    - MI android TV  Box only (cables in all cable cover)
+    - Shoe cabinet tools and spares cover
+- Weigh Machine
+- Kitchen spare cover
+- sony Blue speaker
+- copper glass
+- ==Miscellenious cover-1== -To be sort &set
+- Miscellaneous cover-2
+	- Cloth type rope 
+	- Daily objects Sravya phone case - transparant and Eiffel tower 
+	- Black steel wire used as cloth drying rope
+	- Joystick
+	- Siva milk bottle stoppers cover
+	- 
+- LG TV remote
+- Medical stuff cover
+    - my neck band
+    - sravya hand band
+    - other
+- TV stand, Washing machine transfer bolts, Washing machine some spares cover
+- My sunglasses aviator type
+- Clock - Roman numeral, open modeciverl
+- Logitech keyboard (mouse is in cover 1)
+- Wooden shanku chakra namalu bought at Govinda rajula temple
+- Writing pad , Geen writing with a button to erase all
+- Orange wheels - bought for sravya white Ikea table
+- High chair travel tools and spares cover
+- Whey stirrer Non Ikea
+
+
+**Orange Box 2**
+- Breast pump cover
+- Chakri Woodland shoes
+- Chakri marriage shoes
+- Chakri football shoes
+- Cover -1
+	- Gym hand grips 
+	- Wakefit Cot dismantled nuts, bolts & stickers
+	- Air sucker tool (Yellow) for big vacuum seal cover bags
+	- Pipe connector * 1
+	- Badminton racket gripper
+	- Pipe metal holder to connect to tap
+	- Orpat calculator
+	- Tablet holder of the broken wall mount, that can grip tablet
+	- sandwich bread knife or rectangle knife
+	- 
+- Brown open lid box 
+		- All tapes and tapes kind of- black ones
+- Om x 3, colorful Ganesh boards of wall
+**Orange Box 3**
+- Shuttles Box
+- Cover 
+	- Small white ball wheeled supports for sliding
+	- nuulu kandi yellow and white (sankranthi kite)- thread
+	- kite thread color light rope rajen from balloon
+	- Kitchen cover clampers - colorful- all small
+	- shock bubble gum simulator pull
+	- Play dice and small round things colorful for ludo type things
+	- Rectangular translucent kitchen cutlery holder x 2
+- Big transparent cover
+- Glass Glasses  x 2
+- Bowls of color - pingani x 4
+- Mixie kind of jar
+- Phone stand wooden
+- Phone stand Plastic 
+- Cover big zip folded
+- My old spectacles  very much bent in John Jacobs Green spectacles box
+- LG AC remote holder - White
+- Travel Shoe Cover bought by Sravya
+	- Nikon DSLR bag shoulder belt
+	- All plastic ropes that was earlier used for cloth hanging
+	- BSNL broad band router and adapter
+	- My digital LCD + Analog watch
+- Zhenga cover zip line
+- Sravya craft lamp decor - blue thread with metal rings
+- I love beary much - cup
+- Copper kadiyam
+
+**Transparent Box 1**
+- My college text books and my College project
+- And my diaries 
+**Transparent Box**-Vacation
+**Journey Open lid box**

@@ -1,0 +1,6 @@
+- Sravya Password for Instagram: SravyaInsta
+- Sravya YouTube vanced password : Sravya@2898
+- SravyaChakri20@gmaiol.com password is ChakriSravya@20
+	- I use it for only #pending 
+- amma gmail: prasannalakshmits@gmail.com
+	- amma spotify password: sairam@999

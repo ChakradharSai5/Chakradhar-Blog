@@ -1,0 +1,1 @@
+In [[ESP]] when they say Top float, usaullay that is like bucholtz realay, this acts if some thing short circuited, or some chemical property change in oilm, oil turns black and so causing oil to release gases and that causes relay to act and so causes top flot to rise and i guess cauing field to trip, EMD will not do DGA. but will check oil quality and do something about it

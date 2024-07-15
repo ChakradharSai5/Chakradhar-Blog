@@ -1,0 +1,8 @@
+- Alternator:
+	- nothing but generator
+- Inverter
+	- converts dc to ac
+- rectifier
+	- converts ac to dc
+- [[Solenoid Vs Relay Drawing]]
+- 

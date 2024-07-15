@@ -1,0 +1,4 @@
+- Bhopal is where [[Puru]] got posted, and as he said, currently dtd Apr 2024, only he is working as deputy manager there, all others are senior managers, all others are of elctrical department, only he is of mechanical,  
+- recently some people who are from C&I background were posted back to projects, saying they were not needed there.
+- and it is very small business unit, he has to travel for inspection.
+- Senapthy sir goes to north karanpura through pallahara, and then to rourkela and then stay or rest at ranchi and from there to north karanpura *get clarity on that* #pending  *- exact route and stuff*

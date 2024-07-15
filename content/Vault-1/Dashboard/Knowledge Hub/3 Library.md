@@ -1,0 +1,63 @@
+---
+cssclasses:
+  - dashboard
+  - dashboard-ReadLineLength
+---
+
+### 3 Library
+- **1 Books**
+	- **12 Rules of Life**
+		- [[0 Question of this book-12RoL]]
+		- [[1 Knowledge Hub/3 Library/1 Books/12 rules of life/Chapter-1|Chapter-1]]
+		- [[1 Knowledge Hub/3 Library/1 Books/12 rules of life/Chapter-2|Chapter-2]]
+		- [[1 Knowledge Hub/3 Library/1 Books/12 rules of life/Chapter-3|Chapter-3]]
+	- **Atomic Notes**
+		- [[Summary]]
+	- **Dune**
+	- **How to win Friends**
+		- [[How to win Friends]]
+	- **Origin of species**
+		- [[Origin of Species]]
+	- **Varsity**
+	- [[Book to read]]
+- **2 Courses**
+	- **Capital Gains- LLA**
+		- [[Capital Gains]]
+		- [[purchase of land legal docs]]
+	- **IEX Course**
+		- [[0 IEX Overview]]
+		- [[1 Course overview]]
+		- [[1 Knowledge Hub/3 Library/2 Courses/IEX Course/Chapter-1]]
+		- [[1 Knowledge Hub/3 Library/2 Courses/IEX Course/Chapter-2]]
+		- [[1 Knowledge Hub/3 Library/2 Courses/IEX Course/Chapter-3]]
+	- **Kinobody**
+		- **Exercise Plan**
+			- [[Exercise Plan Page-1]]
+			- [[Exercise Plan Page-2]]
+		- [[1 Knowledge Hub/3 Library/2 Courses/Kinobody/Diet Plan|Diet Plan]]
+		- [[Important Points on Diet]]
+		- [[Kinobody-The Warrior Shredding Program 2.0]]
+	- **Labor Management**
+		- [[Labor Management]]
+	- **Varsity**
+		- [[Varsity]]
+- **3 Movies**
+	- [[Ee nagaraniki Emaindi]]
+	- [[Flea Bag]]
+	- [[Loki series]]
+	- [[Lootera]]
+	- [[Movie Watchlist]]
+- **4 Experiences and Learnings**
+	- **Office**
+		- **Overhauling Learnings**
+			- [[CW duct charging]]
+		- [[CWPH Prelub Flow switch malfunction]]
+		- [[Experience from TDBFP-1A mechanical bolt not working]]
+		- [[Experience of Main TG rolling trip]]
+		- [[Experience of TDBFP overspeed test]]
+		- [[Lightup learning or experience]]
+		- [[MS switchgear changeover]]
+		- [[TDBFP Isolation and Normalization]]
+
+---
+- [[Resource Options-Library]]

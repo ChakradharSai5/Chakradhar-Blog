@@ -1,0 +1,119 @@
+---
+cssclasses:
+  - dashboard
+  - dashboard-ReadLineLength
+---
+### 1 My Joyful Interests
+- **Business**
+	- **Finance of a Business**
+		- 
+	- [[My Business Ideas]]
+	- [[Some Business Concepts]]
+- **Evolution**
+	- 
+- **Film making**
+	- **Creative Help**
+		- [[Character]]
+		- [[Dialogue]]
+		- [[My understanding]]
+		- [[Scenes]]
+		- [[Story]]
+	-  **Drafts written for short film**
+		- [[Draft-1]]
+		- [[Draft-2]]
+	- **Technical Help**
+		- [[DSLR setting setups]]
+		- [[Lighting setups]]
+		- [[Photography editing curves]]
+		- [[Understanding Histogram]]
+		- [[Videography camera settings]]
+		- [[White balance]]
+	- [[Creative Ideas]]
+	- [[Short Film Ideas I can easily do]]
+- **Machines Such**
+	- **Bike Starting Mechanism**
+		- [[Bike  Starting mechanism Note]]
+		- [[Bike Starting mechanism Drawing]]
+	- **Solenoid Vs Relay**
+		- [[Solenoid Vs Relay Note]]
+		- [[Solenoid Vs Relay Drawing]]
+	- [[Machine Things as such]]
+	- [[planet gears]]
+- **My Conceptual Understandings**
+	- **Physics Principles and Laws**
+		- [[3 Phase induction motor]]
+		- [[Biot Sovart Law & Ampere's Law]]
+		- [[Faraday's Law]]
+		- [[Lenz's Law]]
+		- [[Lorentz's Law]]
+	- [[Conversion]]
+	- [[Dew Point]]
+	- [[Relay]]
+- **Ocean**
+	- 
+- **Only Some Geography**
+	- **Maps**
+		- [[City Maps]]
+		- [[Railway Maps]]
+		- [[Rivers and Lakes]]
+		- [[States]]
+	- **Random Known Things**
+		- [[Coromandel express route and accident]]
+		- [[Random known things]]
+	- **Routes**
+		- [[Bangalore-route]]
+		- [[Bhubaneswar]]
+		- [[Chittoor to Naidupeta Route]]
+		- [[Howrah Katpadi Train Route]]
+		- [[Vizag]]
+	- [[Dams]]
+- **Politics**
+	- [[Andhra]]
+- **Self-Help Phycology**
+	- **Notions I derived**
+		- **Identity Building**
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Identity Building/Page-1|Page-1]]
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Identity Building/Page-2|Page-2]]
+		- **Personal Philosophies**
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Personal Phils/Page-1|Page-1]]
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Personal Phils/Page-2|Page-2]]
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Personal Phils/Page-3|Page-3]]
+		- **System**
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/System/Page-1|Page-1]]
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/System/Page-2|Page-2]]
+			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/System/Page-3|Page-3]]
+		- [[Helping Others]]
+		- [[Love and Parenting]]
+		- [[My understanding on Feelings]]
+		- [[Notions I derived]]
+		- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Practices]]
+		- [[Reminders to make You Feel Confident]]
+		- [[Social Media Addiction]]
+		- [[Sravya not being Confident]]
+		- [[To Calm myself]]
+		- [[When to disagree with Loved Ones]]
+		- [[With Sravya]]
+	- **Problems I have**
+		- [[confidence]]
+	- **Searching My values**
+		- [[Role models]]
+	- [[Happiness]]
+	- [[Keep calm]]
+	- [[Questions for better relation]]
+	- [[Quotes]]
+- **Sravya**
+	-  [[Sravya Business Ideas]]
+	- [[Sravya's Bucket List]]
+- **Things to try Some day**
+	- [[Things to Try Someday]]
+- **Travel**
+	- [[Zoos]]
+- **z Other Short Interests**
+	- **Incidents happened around me noteworthy**
+		- [[Story of Erpedu land]]
+		- [[Story of Dimpudu Kallam land]]
+	- [[MBA]]
+	- [[NSB-MBA]]
+	- [[Train details]]
+---
+- [[Joyful learning Websites]]

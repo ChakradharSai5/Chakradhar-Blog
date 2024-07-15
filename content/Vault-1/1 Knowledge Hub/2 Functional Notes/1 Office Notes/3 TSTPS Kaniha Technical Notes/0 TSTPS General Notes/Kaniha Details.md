@@ -1,0 +1,63 @@
+- Area :3890 acres
+    - Including 1750 acres of ash dyke
+- Sources of coal :
+    - Linga raj Mines (37.78 km MGR)
+    - and Kaniha mines (3.5 km MGR ) of MCL
+- Transportation of coal:
+    - NTPC MGR and Indian railway
+- 1989 Rajeev Gandhi laid stone for St-1
+    - 2000 St-2 stone laid
+    - 2013 Solar plant laid stone
+    - 1st january 1997
+    - Commercial operation
+        - IMS (ISO-9001:2015,ISO-14001:2015,OHSAS-18001:2007,ISO-50001:2011),5S&NABL accreditation
+
+- Source of water:
+    - Samal Barrage on River Brahmani
+    - Downstream of rengali dam, upstream of samal barrraige
+
+![](https://i.imgur.com/NeTqmb5.png)
+
+- - Transmission Lines :
+    - 220 KV(4 No.), GRIDCO
+        - Meramundali 1 & 2
+        - Rengali
+        - TTPS
+    - 400 KV(6 No.), PGCIL
+        - Rengali 1 & 2
+        - Rourkela 1& 2
+        - Meramundali 1 & 2
+    - HVDC
+        - 1, 2, 3, 4
+        - To kolar
+- HVDC Bipolar
+- Nearest port: Paradeep port in east coast located almost equidistant from vishakpatanam port and kolkata port
+- Benficery states:
+    - Stage-1 mostly northeast
+        - Orissa, WB, Bihar, Sikkim, DVC(Solar), jharkand, NVVN-B'desh
+    - Stage-2, mostly south
+        - AP, karnataka, kerala, Tamilnadu, telangana, puducherry, odisha, NVVN
+- Country's 1st sub critical once through tower type boiler of Stage-I
+- Zero discharge plant with 100% ash water recirculation system
+- Normative heat rate
+    - 2014-19
+        - NAPAF, normative anuual plant availability factor 85%
+        - GHR, Gross station heat rate 2375 kcal/kwh
+        - SFC, secondary fuel oil consumption 05ml/Kwhr
+        - APC 5.75%
+    - 2019-24
+        - O & M expenses lakh/MW
+            - 22.51 lakh/MW FY 19-20
+            - 25.84 lakh/MW FY 18-19
+        - Transmit & handling losses in coal
+            - Pit head 0.2%
+            - Imported 0.2%
+            - Non pit head 0.8%
+        - NAPAF 85%
+        - NAPLF for incentive 85%
+        - Gross station heat rate: 2390 kcal/kwh
+        - SFC 0.5ml/kwhr
+        - APC
+            - 6.25% stage-2
+            - 7.05% stage-1
+    - 

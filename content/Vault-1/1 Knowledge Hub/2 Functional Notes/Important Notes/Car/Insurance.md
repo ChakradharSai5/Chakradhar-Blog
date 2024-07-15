@@ -1,0 +1,4 @@
+- Insurance of a car/any vehicle 
+	- Own damage premium 
+	- 50% by insurance company 
+	- 50% by first party(customer) 

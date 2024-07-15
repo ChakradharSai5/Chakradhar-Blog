@@ -1,0 +1,7 @@
+- Series pumps need to be flushed only when going for shut down for more than 24hrs because only then the ash water mix in pipes gets sludge stones kind of, other wise no need. And even if series need to be stopped without flushing, can be done. But while taking in service needs to be flushed again
+    - And flushing need to be done, for so long that to ensure flushing water gets till dyke, so depends on which series which flushing is being done, if series flushing is to near dyke lagoon 1, then fine can be done for 15-20mins, but for lagoon 2 discharge flushing need to be done minimum 20-30mins
+    - Flushing requires only one pump in service
+- Instead of stopping total series, only 4th pump can be stopped to maintain sump level, to avoid total series stopping, as frequent start/stop not recommended.
+- If series pumps current is increasing, say if around 70A, that means leakage somewhere in the downstream
+- HP seal water suction from service water 
+- 

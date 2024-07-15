@@ -1,0 +1,6 @@
+- Opens CV & PC gates
+- Opens main steam valve 25sec WT
+- opens steam valve to mill, & classifier and **WT 3 min** and closes steam valve to mill & classifier
+- Closes main steam valve 25 sec WT
+- close CV & PC gates
+- **NOTE**: **Total time takes around 4 min**

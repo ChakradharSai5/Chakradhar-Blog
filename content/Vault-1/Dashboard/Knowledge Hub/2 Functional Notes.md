@@ -1,0 +1,268 @@
+---
+cssclasses:
+  - dashboard
+  - dashboard-ReadLineLength
+---
+### 2 Functional Notes
+- **1 Office Notes**
+	- **Career Digest**
+		- **Current Affairs**
+			- [[Current Affairs]]
+		- [[Cadre]]
+		- [[Corporate Structure]]
+		- [[PMS]]
+		- [[Structure]]
+	- **General Technical Notes**
+		- **Power Plant Business Market**
+			- **Electricity Market**
+				- [[Evolution of structure of electricity]]
+		- **Power Plant incidents**
+			- **Trip Incidents**
+				- [[Trip Cases]]
+			- [[Unchahar Incident]]
+		- **Power Plant Systems**
+			- **Ash Dyke**
+				- [[Overflow Lagoon of Ash Dyke]]
+			- **Boiler**
+				- [[Starvation]]
+			- **Chemistry**
+				- [[Chemistry parameter]]
+			- **Electrical Scheme and Systems**
+				- [[Capability curve]]
+				- [[DN3 Module scheme]]
+				- [[Electric Module]]
+				- [[Electrical Module]]
+				- [[N3 Module Scheme]]
+				- [[One and Half breaker System]]
+			- **ESP Fields**
+				- [[ESP Fields]]
+			- **Flue Gas constituents and Norms**
+				- [[Flue Gas constituents]]
+				- [[Flue Gas Norms]]
+				- [[Nox graph explained]]
+			- **Machinery**
+				- **Bearings**
+					- [[Pad Bearings Vs roller bearings]]
+				- [[Blade pitch mechanism]]
+				- [[Catridge]]
+				- [[Gland seal and sleeve of pump]]
+				- [[Mechanical and gland seal]]
+				- [[Vacuum pumps]]
+				- [[Volumetric vs Gravimetric Feeders]]
+			- **Protection Interlock & Control Logic Systems**
+				- [[Generator Protection Interlocks]]
+				- [[RTS]]
+				- [[Switchyard Protection Interlocks]]
+				- [[TSE]]
+				- [[Turbine trip relay scheme]]
+		- **Power Plant Commerce**
+			- [[Commercial Notes]]
+			- [[Cost]]
+			- [[DSM Calculation]]
+			- [[Pending things to get clarity on]]
+		- **All Other Notes**
+			- **PTW Systems**
+				- [[Authorised Person]]
+				- [[Competent Person]]
+				- [[Control Person]]
+				- [[PTW Safety]]
+				- [[Sanction for the Test]]
+				- [[SAP Senior Authorised Person]]
+				- [[Selected Person]]
+			- [[Helium air leak test]]
+			- [[High Voltage]]
+			- [[Measuring units]]
+			- [[Ovation system]]
+			- [[Random Notes]]
+	- **TSTPS Technical Notes**
+		- **0 Current Status**
+			- [[Current Status]]
+		- **0 General Details**
+			- [[Kaniha Details]]
+			- [[Parameters at Low Load]]
+			- [[Stage-1 Details]]
+		- **1 Boiler and Auxiliaries**
+			- **ESP Fields**
+				- [[Top float in ESP]]
+			- **APH**
+				- [[SAPH]]
+		- **2 Main TG and Auxiliaries**
+			- **CPU**
+				- [[CPU scheme]]
+			- [[CEP Thrust bearing damage if heavy gland leakage]]
+			- [[Generator]]
+			- [[Main TG overspeed bolts]]
+			- [[Main TG rolling]]
+			- [[Slip ring chamber]]
+			- [[TDBFP Roling]]
+		- **3 Electrical Systems**
+			- [[Chargers at St-1]]
+			- [[Excitation System]]
+			- [[GCB Notes]]
+			- [[MLDB]]
+			- [[Synch breaker closing]]
+			- [[UPS]]
+			- [[Why negative flow in switchyard]]
+		- **4 Chemistry**
+			- [[Chemistry]]
+		- **5 Offsite Notes**
+			- **ASPH**
+				- [[ASPH General Notes]]
+			- **AWRC**
+				- [[AWRC General Notes]]
+			- **CT**
+			- **CWPH**
+				- [[CWPH general notes]]
+			- **FOPH**
+			- **FWPH**
+				- [[FWPH Drawing]]
+				- [[FWPH General Notes]]
+			- **RWPH**
+				- [[RWPH General Notes]]
+		- **6 Other Systems and Notes**
+			- **AC System**
+				- [[AC System]]
+				- [[AC System Scheme]]
+				- [[AC-System as told by operator]]
+				- [[VC Fans and pump System]]
+			- [[FG VAM]]
+			- [[DC revision plan]]
+			- [[Zero Hour Calculation]]
+		- **A Protection Interlocks and Control Logic Systems**
+			- **CLCS**
+				- [[HP bypass and LP bypass operation]]
+				- [[LPBP]]
+			- [[AGC Logic]]
+			- [[BMCR]]
+			- [[Pni]]
+		- **B TSTPS Incidents**
+			- [[Unit stopping due to ACC high]]
+		- **C Schemes made by me**
+			- **Switchgear Scheme**
+				- [[CWPH, FWPH & CT]]
+				- [[Miscellaneous Switchgear]]
+				- [[RWPH, FOPH & ASPH]]
+				- [[Total Switchgear scheme]]
+			- [[Boiler drains scheme]]
+			- [[Bottom De-ashing scheme]]
+			- [[Drains Scheme Notes]]
+			- [[Feedwater drains scheme]]
+			- [[Sootblowing scheme]]
+			- [[TDBFP scheme]]
+		- **D Reports, LMIs, Checklists**
+			- **LMI**
+				- [[APH Fire]]
+				- [[Bypassing of protections]]
+				- [[DC System supply failure]]
+				- [[DCDB]]
+				- [[Instrument Air Loss]]
+				- [[Soot blowing]]
+				- [[TG Barring]]
+			- [[Breaker Closing procedure]]
+			- [[Centrifuge Starting]]
+			- [[CEP isolation]]
+			- [[Electrical checking, Meggering, Phase Imbalance checking]]
+			- [[ESP pass isolation and normalization]]
+			- [[Inerting Sequence]]
+			- [[Loading and Unloading of TDBFP]]
+			- [[Mill GGG Pump Sequence]]
+			- [[MOT Filter Changeover]]
+			- [[Purge Sequence]]
+			- [[SOP of CPU taking in service]]
+			- [[Startup Hot or cold or warm conditions]]
+			- [[To put TDBFP and MDBFP in auto]]
+		- [[Random Learning - TSTPS]]
+	- **NTPC**
+		- **1 NTPC Business**
+			- [[2021-22 NTPC Financials]]
+			- [[Current Updates of NTPC]]
+			- [[History]]
+			- [[Mining]]
+			- [[NTPC 2022-23 annual report]]
+			- [[NTPC 2023-24]]
+			- [[Power Generation]]
+			- [[Renewable NTPC]]
+		- **NTPC Locations**
+			- [[Locations-1]]
+			- [[Locations-2]]
+			- [[Locations-3]]
+			- [[Locations-4]]
+			- [[Locations-5]]
+			- [[Locations-6]]
+		- [[NTPC Rules]]
+		- [[Plants]]
+	- [[Resources to learn- Office]]
+- **Finance Notes**
+	- [[Banks]]
+	- [[Easy Finance Formulas]]
+	- [[Finance Savings Notes]]
+	- [[Income Tax]]
+	- [[Loans]]
+	- [[NPS]]
+	- [[Other Notes on Payslip]]
+- **Health Notes**
+	- **Health Concepts**
+		- [[Digestion]]
+		- [[Fat]]
+		- [[Insulin resistance]]
+		- [[Posture Joint pains]]
+		- [[Protein in Diet Calculation]]
+		- [[Sleep]]
+		- [[Some Foods]]
+		- [[Stretching]]
+		- [[Testosterone]]
+	- **Health Plans**
+	- [[1 Knowledge Hub/3 Library/2 Courses/Kinobody/Diet Plan|Diet Plan]]
+	- [[1 Knowledge Hub/2 Functional Notes/Health Notes/Health Plans/Exercise Plan]]
+	- [[Cost Estimate of Protien]]
+- **How To**
+	- [[How to get a Mood Lighting]]
+	- [[How to learn from Youtube video]]
+	- [[How to learn Something]]
+	- [[How to read a Book-Acadamic]]
+	- [[How to read a Book-Nonfiction]]
+	- [[How to write Vision and Mission]]
+- **Important Notes**
+	- **Car**
+		- [[Car servicing]]
+	- [[Account Notes]]
+	- [[Plot detail Notes]]
+	- [[Random Notes about people of NTPC]]
+- **People**
+	- **Others**
+		- [[Aayush NTPC]]
+		- [[Abhishek Padhi]]
+		- [[Bisoi]]
+		- [[Dileep sir TMD]]
+		- [[Divyansh]]
+		- [[Gurunath reddy]]
+		- [[Hemant Saw]]
+		- [[Kasi Sir]]
+		- [[Kishore & Divya]]
+		- [[Madhukar]]
+		- [[P C Tudu]]
+		- [[Puru]]
+		- [[Ravi Teja]]
+		- [[Sai Kiran]]
+		- [[Sarvesh Reddy Sella]]
+		- [[Trijyank]]
+		- [[Venkateswarlu]]
+		- - [[z Other People Small Notes]]
+	- [[Nikhil Kamat]]
+	- [[Ram Charan]]
+	- [[RGV]]
+	- [[Stephen Hawking]]
+	- [[Subramanyam TS]]
+- **Simple Organized Home**
+	- [[Bedroom-1]]
+	- [[Device naming Convention - Drawing]]
+- **z Other Notes**
+	- [[Data organizing details]]
+	- [[IEMI details]]
+	- [[My Watches]]
+	- [[Other PSUs]]
+	- [[Passwords]]
+	- [[Safety signs]]
+	- [[Schooling ideas]]
+	- [[Stemcyte details]]
+

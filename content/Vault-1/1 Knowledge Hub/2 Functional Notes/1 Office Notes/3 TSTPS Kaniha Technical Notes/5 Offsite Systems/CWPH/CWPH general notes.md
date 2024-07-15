@@ -1,0 +1,7 @@
+- ICV most of times module kept off
+- For thrust bearing cooling of CW pumps water supply goes to OH tank and from there it goes to cooling thrust bearing
+- OH tank has two make ups, this is actually self cooling but we have extra make up the following lined up
+    - FW line
+    - Clarified water
+- NRR also have oil, and thrust bearing also have oil, in CW pumps
+- In a line going for cooling there is flow switch called PRELUB FLL switch which was found acting, though the line is charged check in [[CWPH Prelub Flow switch malfunction]]

@@ -1,0 +1,111 @@
+# cadre
+
+- E0 Assit Engineer
+    - Harish salapu
+    - Kottapu Loknath
+    - Ramkumar B S S V
+    - Manish Kashyap
+    - Bala Subramanyam
+    - M vinodh kumar
+- E1 sr.assit engineer
+    - Ghanasyam bisoi
+    - Vijay Prakash singh
+    - Rabindranath singh munda UP
+- E2-lateral entry Engineer
+    - Madhukar devarapalli
+    - Amit Gupta
+    - VenkstaSumantha Chinni
+    - Upendra Mandal
+- E2 through GATE Engineer
+    - Venkatesh burela
+    - Vvs sivakumar
+    - Marry vamsi Krishna
+    - Sakthivel P
+    - Abhilash ingole
+    - Divyansh verma
+    - Mattam Sai
+    - Gandi Rajesh
+    - sriharsha
+    - Veera
+- E3 Asst Manager
+    - Nirupam
+    - Pranav
+    - Salomi
+    - Sukanto Mandal
+    - Mayank Porwal
+    - Sarkar
+    - Subham Gupta
+    - Sujit
+    - Deepak Ranjan Mohanty
+    - Joydeep
+    - Raghob
+- E5 Manager
+    - Abhishej Padhi
+    - Amaresh
+    - Ashok kumar
+    - Jitu Dash
+    - Hikanhsu Sonkar
+    - Kapil
+    - Manoj Kumar
+    - Manzar
+    - Maruth
+    - Pavan
+    - Dimendra sir
+- E6 sr manager
+    - Sanjay
+    - Syam
+    - Trijyak
+    - Anoop
+    - Ashish agarwal
+    - Chand kumar
+    - Dharavat ravi
+    - Vasan
+    - Mahendar
+    - Gosala prasad
+    - Hemant saw
+    - Jyothirmayee pradhan
+    - kiran akurthi
+    - Debashish behera
+
+Phani kumar
+
+- Kamlesh
+- Lakshmi narayan
+- M tudu
+- Dalie
+- P c tudu
+- Prasanta kumar behera
+- Senapathy
+- Prasanth Tripathi
+- Sohan kumar
+- R k meher
+- Ranjit kundu
+- Vaira muthu
+- Valle naveen
+- Sakru
+- S K jena
+- Satendra kumar
+- Vishal Singh
+- E7 DGM
+    - Anil kumar
+    - Deepak singh
+    - Karri ramu
+    - Tirunathan
+    - Kasi viswanatg
+    - Hari Krishna
+    - Prabhakar chaitanya
+    - Pradeep das
+    - Ram taul
+    - Ravi kumar
+    - Venkatescadrwwarlu
+    - Sandeep Gupta
+    - Saurabh parganiha
+    - Panda sibabrata
+    - Ali sir
+    - Tusar kanta pradhan
+- E8 AGM
+    - guru prasad
+    - Prasad mandadi
+    - Seinivasulu sir
+    - Guru brahmachari
+    - A K Behera
