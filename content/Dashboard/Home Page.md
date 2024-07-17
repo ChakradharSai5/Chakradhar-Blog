@@ -23,11 +23,11 @@ cssclasses:
 	- **Trip Planner Journals**
 - **TMS Planner Journals**
 	- **Fortnight Planner Journals**
-		- [[3 Feb Second Fortnight]]
-		- [[4 Mar First Fortnight]]
-		- [[5 Mar Second Fortnight]]
-		- [[6 Apr First Fortnight]]
-		- [[7 Apr Second Fortnight]]
+		- [[3 of 24 Fortnight, Feb]]
+		- [[4 of 24 Fortnight, Mar]]
+		- [[5 of 24 Fortnight, Mar]]
+		- [[6 Of 24 Fortnight Apr]]
+		- [[7 of 24 Fortnight, Apr]]
 	- **Long Term Planner Journals**
 ---
 ### Effort Logs
