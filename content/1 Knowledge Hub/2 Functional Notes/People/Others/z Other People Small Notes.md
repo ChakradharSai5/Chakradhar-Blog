@@ -23,4 +23,12 @@
 	- ![](https://i.imgur.com/RxPGUew.png)
 
 - Sarkar
-	- Got trasnfered to 
+	- Got transferred to 
+- Amulya
+	- applied for nuclear, where he got training in mumbai, now he been posted to a nuclear plant erection that is being taken up by ntpc as JV with NPCIL, mentioned  in [[Current Updates of NTPC]], mahi Banswara project.
+	- As what amulya told
+		- usually NPCIL, people are suppose to work like at single place for a long time, even whole service, we don't know if ntpc would continue that
+		- and if tube leakages are too many, they simply decommission, so as far as possible, they simply run the unit at constant load, so as to avoid tube leakages
+	- they are currently only 17 people in nuclear branch of ntpc, so director himself called amulya to confirm
+	- he may get training at rawat nuclear plant, also called Rajastan atomic nuclear plant, which is located near rawatbhata.
+	- 

@@ -88,8 +88,10 @@
 	- My digital LCD + Analog watch
 - Zhenga cover zip line
 - Sravya craft lamp decor - blue thread with metal rings
-- I love beary much - cup
+- I love beary much - cup ceramic
 - Copper kadiyam
+- black phone stand, foldable,
+- 
 
 **Transparent Box 1**
 - My college text books and my College project
