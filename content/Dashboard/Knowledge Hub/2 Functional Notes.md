@@ -154,7 +154,7 @@ cssclasses:
 				- [[APH Fire]]
 				- [[Bypassing of protections]]
 				- [[DC System supply failure]]
-				- [[DCDB]]
+				- [[1 Knowledge Hub/2 Functional Notes/1 Office Notes/3 TSTPS Kaniha Technical Notes/C Reports, LMIs, Checklists/LMI/DCDB]]
 				- [[Instrument Air Loss]]
 				- [[Soot blowing]]
 				- [[TG Barring]]

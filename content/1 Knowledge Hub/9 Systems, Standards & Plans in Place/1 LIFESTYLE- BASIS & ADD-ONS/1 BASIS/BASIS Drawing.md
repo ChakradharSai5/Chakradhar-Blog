@@ -40,6 +40,9 @@ in Notion ^IgcMvkfw
 Checklist
 in Notion ^WVFux3Ai
 
+HELO
+ ^Oog90RHw
+
 %%
 # Drawing
 ```json
@@ -960,33 +963,42 @@ in Notion ^WVFux3Ai
 			"lineHeight": 1.25
 		},
 		{
-			"id": "r-XkMYbnmReeCaYOt-l67",
 			"type": "arrow",
-			"x": 286.59261768148747,
-			"y": -234.12378641820612,
-			"width": 208.88367571149553,
-			"height": 4.587367663483263,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 86,
+			"versionNonce": 117967581,
+			"isDeleted": false,
+			"id": "r-XkMYbnmReeCaYOt-l67",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 286.59261768148747,
+			"y": -234.12378641820612,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 208.88367571149553,
+			"height": 4.587367663483263,
+			"seed": 979538589,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 979538589,
-			"version": 86,
-			"versionNonce": 117967581,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1719288316921,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "oSvgpGHv",
+				"focus": -0.18273745521726073,
+				"gap": 27.05117481039366
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -996,45 +1008,45 @@ in Notion ^WVFux3Ai
 					208.88367571149553,
 					4.587367663483263
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "oSvgpGHv",
-				"focus": -0.18273745521726073,
-				"gap": 27.05117481039366
-			},
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "OhJhcpqXIckTgLC8wCpma",
 			"type": "arrow",
-			"x": 415.884496517983,
-			"y": -90.76092349802644,
-			"width": 196.93875558035717,
-			"height": 8.163277762276778,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 110,
+			"versionNonce": 310456147,
+			"isDeleted": false,
+			"id": "OhJhcpqXIckTgLC8wCpma",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 415.884496517983,
+			"y": -90.76092349802644,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 196.93875558035717,
+			"height": 8.163277762276778,
+			"seed": 1076700659,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1076700659,
-			"version": 110,
-			"versionNonce": 310456147,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1719288271366,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "IgcMvkfw",
+				"focus": 0.1778109854763364,
+				"gap": 14.365040345414855
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -1044,45 +1056,45 @@ in Notion ^WVFux3Ai
 					196.93875558035717,
 					8.163277762276778
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "IgcMvkfw",
-				"focus": 0.1778109854763364,
-				"gap": 14.365040345414855
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			]
 		},
 		{
-			"id": "aGHsrOE-tZ4Xag2sgCPTp",
 			"type": "arrow",
-			"x": 406.70083301351866,
-			"y": 50.565636386181154,
-			"width": 207.65304129464283,
-			"height": 10.714285714285722,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 55,
+			"versionNonce": 1958111411,
+			"isDeleted": false,
+			"id": "aGHsrOE-tZ4Xag2sgCPTp",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 406.70083301351866,
+			"y": 50.565636386181154,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 207.65304129464283,
+			"height": 10.714285714285722,
+			"seed": 65007549,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 65007549,
-			"version": 55,
-			"versionNonce": 1958111411,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1719288277263,
 			"link": null,
 			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "WVFux3Ai",
+				"focus": -0.23586692266665088,
+				"gap": 11.691560992736413
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
@@ -1092,156 +1104,15 @@ in Notion ^WVFux3Ai
 					207.65304129464283,
 					10.714285714285722
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "WVFux3Ai",
-				"focus": -0.23586692266665088,
-				"gap": 11.691560992736413
-			},
-			"startArrowhead": null,
-			"endArrowhead": "arrow"
-		},
-		{
-			"type": "line",
-			"version": 85,
-			"versionNonce": 1077150707,
-			"isDeleted": true,
-			"id": "oGSYPhacFn8i_1bGNwMnu",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 283.0608803912816,
-			"y": -236.56435779194348,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 185.51588270399304,
-			"height": 0.9920586480034785,
-			"seed": 665181779,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1719288236139,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					185.51588270399304,
-					-0.9920586480034785
-				]
 			]
 		},
 		{
-			"type": "line",
-			"version": 160,
-			"versionNonce": 70945053,
-			"isDeleted": true,
-			"id": "bp-7X-lAUcHV4lzRoL5eS",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 413.5497526300807,
-			"y": -97.39248102077183,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 185.51588270399304,
-			"height": 0.9920586480034785,
-			"seed": 1401213213,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1719288239149,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					185.51588270399304,
-					-0.9920586480034785
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 98,
-			"versionNonce": 1467393501,
-			"isDeleted": true,
-			"id": "2wTBUKa8sz8AEcLTE1BJM",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 406.58543785143473,
-			"y": 44.055934099670935,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 185.51588270399304,
-			"height": 0.9920586480034785,
-			"seed": 390483133,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1719288242832,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					185.51588270399304,
-					-0.9920586480034785
-				]
-			]
-		},
-		{
-			"id": "2X7LNdgY",
+			"id": "Oog90RHw",
 			"type": "text",
-			"x": 391.1702108036972,
-			"y": -258.1894774879818,
-			"width": 10,
-			"height": 25,
+			"x": 134.781974894099,
+			"y": -453.15710269724514,
+			"width": 50.999969482421875,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
@@ -1253,58 +1124,22 @@ in Notion ^WVFux3Ai
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 100433981,
-			"version": 2,
-			"versionNonce": 1338454963,
-			"isDeleted": true,
+			"seed": 2066785874,
+			"version": 6,
+			"versionNonce": 1230864142,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1719288125635,
+			"updated": 1721624192086,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "HELO\n",
+			"rawText": "HELO\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "djV0194u",
-			"type": "text",
-			"x": 462.59878223226866,
-			"y": -133.04662034512464,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 37034109,
-			"version": 2,
-			"versionNonce": 1497089907,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1719288264982,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
+			"originalText": "HELO\n",
 			"lineHeight": 1.25
 		}
 	],
@@ -1323,8 +1158,8 @@ in Notion ^WVFux3Ai
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 238.84286815835634,
-		"scrollY": 343.1445163760956,
+		"scrollX": 262.84237987710634,
+		"scrollY": 535.1564618281045,
 		"zoom": {
 			"value": 1.75
 		},

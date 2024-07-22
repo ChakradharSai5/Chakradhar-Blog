@@ -1,3 +1,5 @@
 - Clinker Grinder trip from no ON/Running feedback, and power fuses not ok and control fuses being ok, it will show Power supply healthy, and if you give start, running indication shall not come, refer  [[DN3 Module scheme]] & [[N3 Module Scheme]]\
 - Enargo tank make up is from only BALP
 - Fly ash water tank or FAWT make up is from two sources one is Blowdown  & other is from BALP
+- scheme available at[[Bottom De-ashing scheme]] 
+- Hopper gates opening logic at 3-4ksc, we usually get around 7ksc from BALP
