@@ -1,4 +1,6 @@
 - Dilip rawat TMD – came from vindhyachal saying- has good schools and very good shopping places, many branded shops just outside township, swiggy and zomato available , he used to use it regularly
+	- Vindhyachal maintanance is far better than Kaniha, as said by our Dilip sir TMD
+	- Now he is leaving for doing MBA in france, 
 - Girls recently joine were given only good places, solapur, mauda and simhadri
 - [[Venkateswarlu]] native guntur- worked in ramagundam- very good connectivity and very good place all theatres and buses available every half an hour to hyderbad takes around 3 hrs
     - Railways stations in 10mins by auto
@@ -24,4 +26,7 @@
 - Siya sir got job in canada, did mba or some pg in canada, he did mba without writing any exam he only gave interview, he did in I think in wharton university
 	- Now he got in company that works as gas grid for transfers gas thtrough a grid kind of thing and that is used for power production, wherver they take tapping and produce electricity
 - 
-- 
+- Barauni
+	- as per Saurabh sir, barauni is not such a bad place, it has direct main road connectivity from patna, though the township and facilities are quite bad as it is aquired project
+
+

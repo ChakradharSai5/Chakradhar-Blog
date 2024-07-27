@@ -32,4 +32,4 @@ When went to office at the start
 ### Financial Planning - Monthly & Quarterly
 - Checklist available in Notion
 
-![[BASIS Drawing]]
+

@@ -1,0 +1,3 @@
+- CEP Protection & Interlock:
+	- Protection trip is at <25ksc, delay of 15Sec
+	- Auto start at <30ksc with delay of 20Sec

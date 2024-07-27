@@ -7,8 +7,11 @@
 - Got to know about these plants nearby [[Aayush NTPC]] home and note near by cities there #UrgentThing 
 - Sulay who got training in BHEL on nuclear, I think bangalore, later got posted in mumbai or somewhere #pending , now recently Hitesh contacted him to ask about BHEL training, as Hitesh thinking to applying, Sulay said, soon they will be postedin nuclear side of NTPC mostly erection, so hitesh cancelled his plan apply for nuclear
 - Subratanu sarkar who was in our group-B St-2 applied in HR and so got transferred to Mines called Badam, Corporate communications
+	- Hazaribad near to wherever Sarkar got posted and I think that's near to north karanpura
 	- which is in odisha mentioned in [[Mining]]
 - Sujeet who used be here in Kaniha Group-D got transferred to HR dept in dulanga minese mentioned in [[Mining]]
 - Sukanta mandal got transfereed to Kanti bihar
 - Kanti in Bihar
 	- a JV with Bihar goverement, aquired in 2018, got stopped in 2003, established in some 80s
+
+- Koldam to Chandigarh just about 4 hrs

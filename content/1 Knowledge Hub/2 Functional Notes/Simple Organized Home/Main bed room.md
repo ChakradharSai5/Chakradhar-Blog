@@ -1,10 +1,11 @@
-### **Orange Box 1** -RULE:***All are in working condition*** 
+## RULE for things to be Storage box: ***All are in working condition*** 
+### **Orange Box 1** 
 - Cover-1
     - LG Watch
     - Sony Mic
     - Logitech mouse(that's in pair with wireless keyboard )
     - Logitech mouse (with only single)
-    - Joystick usb (Joystick is at misc cover 2)
+    - Joystick USB (Joystick is at misc. cover 2)
 - All Cables cover
 - Bajaj Iron Box
 - Cover-2
@@ -17,16 +18,16 @@
     - Shoe cabinet tools and spares cover
 - Weigh Machine
 - Kitchen spare cover
-- sony Blue speaker
+- Sony Blue speaker
 - copper glass
-- ==Miscellenious cover-1== -To be sort &set
+- Miscellaneous cover-1 -To be sort &set
 - Miscellaneous cover-2
 	- Cloth type rope 
-	- Daily objects Sravya phone case - transparant and Eiffel tower 
+	- Daily objects Sravya phone case - transparent and Eiffel tower 
 	- Black steel wire used as cloth drying rope
 	- Joystick
-	- Siva milk bottle stoppers cover
-	- 
+	- Siva milk bottle stoppers & spoons cover
+- ==Sravya Scooty  battery bill warranty replaced dated in July mid==
 - LG TV remote
 - Medical stuff cover
     - my neck band
@@ -34,16 +35,16 @@
     - other
 - TV stand, Washing machine transfer bolts, Washing machine some spares cover
 - My sunglasses aviator type
-- Clock - Roman numeral, open modeciverl
+- Clock - Roman numeral, open modern
 - Logitech keyboard (mouse is in cover 1)
 - Wooden shanku chakra namalu bought at Govinda rajula temple
-- Writing pad , Geen writing with a button to erase all
+- Writing pad , Green writing with a button to erase all
 - Orange wheels - bought for sravya white Ikea table
 - High chair travel tools and spares cover
 - Whey stirrer Non Ikea
 
 
-**Orange Box 2**
+### **Orange Box 2**
 - Breast pump cover
 - Chakri Woodland shoes
 - Chakri marriage shoes
@@ -62,7 +63,7 @@
 - Brown open lid box 
 		- All tapes and tapes kind of- black ones
 - Om x 3, colorful Ganesh boards of wall
-**Orange Box 3**
+### **Orange Box 3**
 - Shuttles Box
 - Cover 
 	- Small white ball wheeled supports for sliding
@@ -91,10 +92,14 @@
 - I love beary much - cup ceramic
 - Copper kadiyam
 - black phone stand, foldable,
+- Keyboard hand support wooden 
+- Pen holder with 2 square openings, wooden
+- Sravya OPD book
+- Bamboo - cylindrical Spectacles box - keeper
 - 
 
-**Transparent Box 1**
+### **Transparent Box 1**
 - My college text books and my College project
 - And my diaries 
-**Transparent Box**-Vacation
-**Journey Open lid box**
+### **Transparent Box**-Vacation
+### **Journey Open lid box**

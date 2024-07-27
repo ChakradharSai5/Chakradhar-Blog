@@ -31,4 +31,16 @@
 		- and if tube leakages are too many, they simply decommission, so as far as possible, they simply run the unit at constant load, so as to avoid tube leakages
 	- they are currently only 17 people in nuclear branch of ntpc, so director himself called amulya to confirm
 	- he may get training at rawat nuclear plant, also called Rajastan atomic nuclear plant, which is located near rawatbhata.
-	- 
+
+
+Sourabh Shrimali sir
+- - Our saurabh sir when joined in NPCIL & NTPC JV Kudankulam(STC),later NTPC canelled its JV in around 2013 and so NTPC shifted everyone working from NTPC side to different places, in that Saurabh sir got transferred to Jajjar he was in jajjar for around 10 years, from there he came here
+- he heavily regret of not applying for transfer in 9 years, as he thought ok in next year, I will get promotion of DGM and we'll get some good place but coming here he severely didn't like
+- one of his NO options is this place for him
+- his native uday pur
+
+
+
+
+
+

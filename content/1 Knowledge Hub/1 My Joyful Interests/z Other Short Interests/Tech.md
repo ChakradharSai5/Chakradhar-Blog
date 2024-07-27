@@ -1,3 +1,0 @@
-- Ios every year gets released in mid year, around july august
-	- current 2024 ios18 is running
-- 
