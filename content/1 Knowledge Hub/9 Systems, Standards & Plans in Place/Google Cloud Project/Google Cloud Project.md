@@ -15,3 +15,8 @@ this is that day sravya is serious
 
 [[no]]
 [[yeah.png]]
+[[1 Knowledge Hub/9 Systems, Standards & Plans in Place/Google Cloud Project/hello|hello]]
+![[1 Knowledge Hub/9 Systems, Standards & Plans in Place/Google Cloud Project/hello|hello]]
+
+
+![[hello.svg]]
