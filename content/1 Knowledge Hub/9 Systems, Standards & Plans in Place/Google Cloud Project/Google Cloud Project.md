@@ -9,3 +9,10 @@
 
 [![](2024-07-30_google-photo_122739.jpg)](https://photos.google.com/lr/photo/APoIuWorr248Ds2EU8ch-0Sj0N-Enxo2Xc764GF0GMc7M844NxZO9fkStUHFKOkN1oK8ZLrOiQXgO4qmhGsdiI9EmBp0p4nZyg) 
 this is that day sravya is serious
+
+
+[[112.svg]]
+
+
+
+![[112.svg]]
