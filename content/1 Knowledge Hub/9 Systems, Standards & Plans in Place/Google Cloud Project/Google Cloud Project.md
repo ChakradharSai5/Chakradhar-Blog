@@ -20,3 +20,8 @@ this is that day sravya is serious
 
 
 ![[hello.svg]]
+[[jukl]]
+[[jukl.svg]]
+![[jukl.svg]]
+
+[[jukl]]
