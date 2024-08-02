@@ -7,7 +7,8 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 Rules:
     1. All devices are named in this way
      ^kKvuRRc9
@@ -41,531 +42,76 @@ be as minimized, if suppose placed in source category/folder/heading, then if re
 be linked to topic based note. Mostly links can be used for this purpose only. ^YpuLl6Fz
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
-	"elements": [
-		{
-			"type": "text",
-			"version": 76,
-			"versionNonce": 2066787207,
-			"isDeleted": false,
-			"id": "kKvuRRc9",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -304.6944885253906,
-			"y": -169.78934478759766,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 389.1197509765625,
-			"height": 75,
-			"seed": 195662823,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714016441483,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Rules:\n    1. All devices are named in this way\n    ",
-			"rawText": "Rules:\n    1. All devices are named in this way\n    ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Rules:\n    1. All devices are named in this way\n    ",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "line",
-			"version": 24,
-			"versionNonce": 237433961,
-			"isDeleted": false,
-			"id": "qODqEqtMjSc-b9BJufC9G",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -245.76589965820312,
-			"y": -81.39649200439453,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 112.49996948242188,
-			"height": 0.000030517578125,
-			"seed": 251217127,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1714016441483,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					112.49996948242188,
-					-0.000030517578125
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 36,
-			"versionNonce": 54502055,
-			"isDeleted": false,
-			"id": "Cn2hLd5YP2bE86AM-HL8E",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -97.5516357421875,
-			"y": -78.71793365478516,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 130.357177734375,
-			"height": 3.5714111328125,
-			"seed": 1538981801,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1714016441483,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					130.357177734375,
-					-3.5714111328125
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 44,
-			"versionNonce": 1432184905,
-			"isDeleted": false,
-			"id": "yd6mGC44EdNGVCaikNi2F",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 75.66265869140625,
-			"y": -76.93219757080078,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 131.25,
-			"height": 10.71429443359375,
-			"seed": 191382665,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1714016582250,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					131.25,
-					-10.71429443359375
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 26,
-			"versionNonce": 294324999,
-			"isDeleted": false,
-			"id": "3FRheI0QS-MCmqfTL8DIB",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -205.58734130859375,
-			"y": -73.36078643798828,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 60.71429443359375,
-			"height": 108.9285888671875,
-			"seed": 574357769,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1714016443360,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-60.71429443359375,
-					108.9285888671875
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 19,
-			"versionNonce": 920805767,
-			"isDeleted": false,
-			"id": "Tu0A6PEp",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -287.7301940917969,
-			"y": 57.88921356201172,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 193.41983032226562,
-			"height": 25,
-			"seed": 1247594441,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714016448951,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Name of the person",
-			"rawText": "Name of the person",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Name of the person",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "arrow",
-			"version": 34,
-			"versionNonce": 557577257,
-			"isDeleted": false,
-			"id": "yqcv52MMk5-3jKuPATom7",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -30.58734130859375,
-			"y": -70.68219757080078,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 14.28570556640625,
-			"height": 233.92852783203125,
-			"seed": 266267591,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1714016453291,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-14.28570556640625,
-					233.92852783203125
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 63,
-			"versionNonce": 411524169,
-			"isDeleted": false,
-			"id": "8ynI6N4i",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -49.123046875,
-			"y": 185.10350799560547,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 253.6597442626953,
-			"height": 100,
-			"seed": 1583886631,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714016509129,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Brand or company \nor model\nwhichever is more intuitive\n name",
-			"rawText": "Brand or company \nor model\nwhichever is more intuitive\n name",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Brand or company \nor model\nwhichever is more intuitive\n name",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "arrow",
-			"version": 16,
-			"versionNonce": 1683786727,
-			"isDeleted": false,
-			"id": "uA728WIUbF3dsd3hQbw6J",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 150.66265869140625,
-			"y": -72.46793365478516,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 31.25,
-			"height": 116.07144165039062,
-			"seed": 760419049,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1714016465456,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					31.25,
-					116.07144165039062
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 19,
-			"versionNonce": 1341737865,
-			"isDeleted": false,
-			"id": "BKKERxJT",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 195.876953125,
-			"y": 72.10350799560547,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 182.19984436035156,
-			"height": 25,
-			"seed": 433716775,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714016474060,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "what is the device",
-			"rawText": "what is the device",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "what is the device",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 176,
-			"versionNonce": 1442747593,
-			"isDeleted": false,
-			"id": "Q5sQP4ae",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -269.123046875,
-			"y": 300.9249801635742,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 342.93975830078125,
-			"height": 75,
-			"seed": 1120622535,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1714016573595,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "EX: Chakradhar S7+ Tablet\n    Chakradhar JBL Earphones\n    Chakradhar Dell Keyboard etc.",
-			"rawText": "EX: Chakradhar S7+ Tablet\n    Chakradhar JBL Earphones\n    Chakradhar Dell Keyboard etc.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "EX: Chakradhar S7+ Tablet\n    Chakradhar JBL Earphones\n    Chakradhar Dell Keyboard etc.",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "YpuLl6Fz",
-			"type": "text",
-			"x": -266.55761609758645,
-			"y": 417.42746625627785,
-			"width": 1030.079345703125,
-			"height": 350,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 717821857,
-			"version": 1643,
-			"versionNonce": 1929742223,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1714220865289,
-			"link": null,
-			"locked": false,
-			"text": "2. Any category/folder/heading name should be INTUITIVE, just by reading, one should be able to get \na rough idea of what topic related notes shall be present in it\n\n3. Any category/folder/heading name should be EXCLUSIVE, just by seeing a notes file,\none should be able to predict what category it should be placed into, without getting\nconfused whether to place it in this or that, Same goes around, say I want to find a note\nfile, I should, just by scrolling in the category/folder/heading list I should be able to \nintuitively feel in which I can find that particular note file\n\n4. We basically have two types of broad way of categorizing knowledge, base on the \nTOPIC IT REFERS TO or FROM WHICH SOURCE IT IS COMING FROM, It is quite important\nto try best to give weightage to TOPIC wise, and place it so. Source placing of a file should\nbe as minimized, if suppose placed in source category/folder/heading, then if required, it may\nbe linked to topic based note. Mostly links can be used for this purpose only.",
-			"rawText": "2. Any category/folder/heading name should be INTUITIVE, just by reading, one should be able to get \na rough idea of what topic related notes shall be present in it\n\n3. Any category/folder/heading name should be EXCLUSIVE, just by seeing a notes file,\none should be able to predict what category it should be placed into, without getting\nconfused whether to place it in this or that, Same goes around, say I want to find a note\nfile, I should, just by scrolling in the category/folder/heading list I should be able to \nintuitively feel in which I can find that particular note file\n\n4. We basically have two types of broad way of categorizing knowledge, base on the \nTOPIC IT REFERS TO or FROM WHICH SOURCE IT IS COMING FROM, It is quite important\nto try best to give weightage to TOPIC wise, and place it so. Source placing of a file should\nbe as minimized, if suppose placed in source category/folder/heading, then if required, it may\nbe linked to topic based note. Mostly links can be used for this purpose only.",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "2. Any category/folder/heading name should be INTUITIVE, just by reading, one should be able to get \na rough idea of what topic related notes shall be present in it\n\n3. Any category/folder/heading name should be EXCLUSIVE, just by seeing a notes file,\none should be able to predict what category it should be placed into, without getting\nconfused whether to place it in this or that, Same goes around, say I want to find a note\nfile, I should, just by scrolling in the category/folder/heading list I should be able to \nintuitively feel in which I can find that particular note file\n\n4. We basically have two types of broad way of categorizing knowledge, base on the \nTOPIC IT REFERS TO or FROM WHICH SOURCE IT IS COMING FROM, It is quite important\nto try best to give weightage to TOPIC wise, and place it so. Source placing of a file should\nbe as minimized, if suppose placed in source category/folder/heading, then if required, it may\nbe linked to topic based note. Mostly links can be used for this purpose only.",
-			"lineHeight": 1.25
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 584.7862450735909,
-		"scrollY": -369.80509621756414,
-		"zoom": {
-			"value": 1.4000000000000001
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		},
-		"objectsSnapModeEnabled": false
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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
 ```
 %%
