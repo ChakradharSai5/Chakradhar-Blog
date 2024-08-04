@@ -1,0 +1,1 @@
+[[CPU scheme.svg]]
