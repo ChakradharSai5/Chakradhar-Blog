@@ -5,4 +5,3 @@
 - rectifier
 	- converts ac to dc
 - [[Solenoid Vs Relay Drawing]]
-- 

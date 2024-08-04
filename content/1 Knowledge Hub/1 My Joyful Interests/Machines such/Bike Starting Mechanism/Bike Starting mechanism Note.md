@@ -5,9 +5,7 @@
 - so for one rotaion of fly wheel, our pinion rotates 84times, and so torque from pinon getes multiplied 84times
 
 ### Starter motor
-- 
-![](https://i.imgur.com/Uh0MtV1.png)
-
+- ![[Uh0MtV1 - Imgur.png]]
 
 
 - starter motor is single biggest load of battery use in the car
@@ -24,7 +22,7 @@
 
 ### Preengagement
 - To make pinion to easily engage into flywheel, we use bevel shape teeth and also while plunger moves sidewards, we make this pinion rotate slightly, (which happens parallelly to or before the motor starts) called preengagement
-![](https://i.imgur.com/nyBv0O1.png)
+![[Uh0MtV1 - Imgur 1.png]]
 
 - We use one way clutch system, which is kind of like bearing used for motor to not get motored back from flywheel
 ### Safety switch

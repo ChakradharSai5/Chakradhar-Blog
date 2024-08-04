@@ -1,0 +1,1 @@
+![[Biot Sovart Law & Ampere's Law Drawing.svg]]

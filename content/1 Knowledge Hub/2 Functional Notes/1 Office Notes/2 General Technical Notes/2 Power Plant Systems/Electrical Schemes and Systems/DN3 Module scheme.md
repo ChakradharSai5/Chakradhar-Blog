@@ -8,4 +8,5 @@
 - For example:
     - RESET shown is usually NC, which becomes NO on thermal overload or current overload
 
-![](https://i.imgur.com/ffleiub.png)
+
+![[ffleiub - Imgur.png]]

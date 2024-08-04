@@ -1,0 +1,1 @@
+![[Bangalore-route Drawing.svg]]

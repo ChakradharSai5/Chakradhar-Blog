@@ -1,0 +1,1 @@
+![[Howrah Katpadi Train Route Drawing.svg]]

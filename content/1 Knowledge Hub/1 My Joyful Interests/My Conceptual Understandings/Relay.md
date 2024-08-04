@@ -7,5 +7,4 @@
         - And this led light gets to a photo diode which control makes through bigger circuit
         - Making it more complex by numerical relays
 
-![](https://i.imgur.com/1b0WRDQ.png)
-
+![[1b0WRDQ - Imgur.png]]

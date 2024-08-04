@@ -12,8 +12,8 @@
         - To reduce _thermal_ Nox we can use OVF,basically total air is not given right away at burner, some part of air given at above all burners, so that near burner localized O2 deficit happens and so reduces NOx ,
 - SOx limit
     - 600mg/Nm3 for less than 500MW,
-    - 200mg/Nm3 for greater than or equal to 500MW, so Kaniha 200mg/Nm3
-![](https://i.imgur.com/pUCt1Sn.jpeg)
+    - 200mg/Nm3 for greater than or equal to 500MW, so Kaniha 200mg/Nm3![[pUCt1Sn - Imgur.jpg]]
+
 <!--SR:!2024-07-06,3,250-->
 
 

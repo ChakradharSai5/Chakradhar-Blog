@@ -32,7 +32,7 @@ cssclasses:
 	- [[Short Film Ideas I can easily do]]
 - **Machines Such**
 	- **Bike Starting Mechanism**
-		- [[Bike  Starting mechanism Note]]
+		- [[Bike Starting mechanism Note]]
 		- [[Bike Starting mechanism Drawing]]
 	- **Solenoid Vs Relay**
 		- [[Solenoid Vs Relay Note]]
@@ -41,9 +41,9 @@ cssclasses:
 	- [[planet gears]]
 - **My Conceptual Understandings**
 	- **Physics Principles and Laws**
-		- [[3 Phase induction motor]]
+		- [[3 Phase induction motor Drawing]]
 		- [[Biot Sovart Law & Ampere's Law]]
-		- [[Faraday's Law]]
+		- [[Faraday's Law Drawing]]
 		- [[Lenz's Law]]
 		- [[Lorentz's Law]]
 	- [[Conversion]]
@@ -58,13 +58,13 @@ cssclasses:
 		- [[Rivers and Lakes]]
 		- [[States]]
 	- **Random Known Things**
-		- [[Coromandel express route and accident]]
+		- [[Coromandel express route and accident Drawing]]
 		- [[Random known things]]
 	- **Routes**
-		- [[Bangalore-route]]
+		- [[Bangalore-route Drawing]]
 		- [[Bhubaneswar]]
 		- [[Chittoor to Naidupeta Route]]
-		- [[Howrah Katpadi Train Route]]
+		- [[Howrah Katpadi Train Route Drawing]]
 		- [[Vizag]]
 	- [[Dams]]
 - **Politics**
@@ -84,7 +84,7 @@ cssclasses:
 			- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/System/Page-3|Page-3]]
 		- [[Helping Others]]
 		- [[Love and Parenting]]
-		- [[My understanding on Feelings]]
+		- [[My understanding on Feelings Drawing]]
 		- [[Notions I derived]]
 		- [[1 Knowledge Hub/1 My Joyful Interests/Self-Help Phycology/Notions I derirved/Practices]]
 		- [[Reminders to make You Feel Confident]]

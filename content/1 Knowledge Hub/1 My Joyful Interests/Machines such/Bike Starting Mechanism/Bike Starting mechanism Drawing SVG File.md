@@ -1,0 +1,1 @@
+![[Bike Starting mechanism Drawing.svg]]

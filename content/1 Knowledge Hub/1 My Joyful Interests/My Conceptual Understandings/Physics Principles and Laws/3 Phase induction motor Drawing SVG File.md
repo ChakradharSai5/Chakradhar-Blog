@@ -1,0 +1,1 @@
+![[3 Phase induction motor Drawing.svg]]
