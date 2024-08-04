@@ -1,1 +1,1 @@
-[[CPU scheme.svg]]
+![[CPU scheme.svg]]

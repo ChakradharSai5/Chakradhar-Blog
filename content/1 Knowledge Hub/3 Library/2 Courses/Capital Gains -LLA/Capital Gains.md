@@ -6,6 +6,4 @@
     - Comes under speculative income
     - So comes as other income source, comes directly under slab
     
-![](https://i.imgur.com/KAzybXb.png)
-
-!![[LLA Capital gains_organized.pdf]]
+![](https://i.imgur.com/KAzybXb.png)![[LLA Capital gains_organized.pdf]]
