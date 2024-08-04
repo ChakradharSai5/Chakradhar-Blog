@@ -13,6 +13,8 @@ this is that day sravya is serious
 
 [[4131.svg]]
 
+![](https://i.imgur.com/tSeRivM.png)
+
 
 
 
@@ -27,7 +29,10 @@ this is that day sravya is serious
 
 
 
+![](https://i.imgur.com/8CiixqG.png)
 
 
+![[sdfsdfsdcfsdf.png]]
 
 
+![[00104664_DELN11894B_Form 12BA.pdf]]
