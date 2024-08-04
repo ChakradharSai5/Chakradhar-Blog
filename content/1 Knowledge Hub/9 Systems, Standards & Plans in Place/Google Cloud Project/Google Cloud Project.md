@@ -13,5 +13,7 @@ this is that day sravya is serious
 
 
 ![[sdfsdfsdcfsdf.png]]
+![[hello check.svg]]
 
-![[Key Features of Budget 2024-25 (Graphical).pdf]]
+![[hello check.png]]
+
