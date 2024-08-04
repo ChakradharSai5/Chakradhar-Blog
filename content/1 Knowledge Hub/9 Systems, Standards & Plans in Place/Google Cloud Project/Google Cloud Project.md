@@ -12,6 +12,5 @@ this is that day sravya is serious
 
 
 
-![[20240730_122739.jpg]]![[well let's see]]
-
+![[20240730_122739.jpg]]
 ![[well let's see.svg]]
