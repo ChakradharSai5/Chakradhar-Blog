@@ -1,3 +1,4 @@
 #pending to Excalidraw
 
-![](https://i.imgur.com/kYyTq77.jpeg)
+
+![[kYyTq77 - Imgur.jpg]]

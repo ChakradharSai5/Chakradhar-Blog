@@ -5,5 +5,5 @@
 - Intraday & F&O
     - Comes under speculative income
     - So comes as other income source, comes directly under slab
-    
-![](https://i.imgur.com/KAzybXb.png)![[LLA Capital gains_organized.pdf]]
+    ![[KAzybXb - Imgur 1.png]]
+![[LLA Capital gains_organized.pdf]]

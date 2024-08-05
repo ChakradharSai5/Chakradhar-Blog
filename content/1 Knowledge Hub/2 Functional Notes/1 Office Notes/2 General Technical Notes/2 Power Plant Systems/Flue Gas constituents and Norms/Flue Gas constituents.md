@@ -39,8 +39,8 @@
 ?
 - High Furnace Temp. gives more Nox
 	- can't decrease, as production gets affected
-	- predicted Nox with temp. in ppm, this graph explained [[Nox graph explained]]
-	- - ![](https://i.imgur.com/FOvHtfk.png)
+	- predicted Nox with temp. in ppm, this graph expla![[FOvHtfk - Imgur.png]]ined [[Nox graph explained]]
+	
 		-  So temperature control is really important, so we reduce hotspots, and give a uniform distribution of flame
 - Fuel constituents
 	- can't control- obviously
@@ -51,11 +51,11 @@
 			- 2. High Nox, obviously
 - Combustion air temperature
 	- preheating the air that gets in to boiler though APH
-	 - ![](https://i.imgur.com/OvLGeqK.png)
+	 -
 	 - we usually go by around 280DegC, so around 600F.
 	 - as Air pre heat good for efficiency, bad for Nox
 <!--SR:!2024-07-06,3,250-->
-
+![[OvLGeqK - Imgur.png]]
 
 - Also S + O2 ---> SO2+ some 2000kcal energy
     - Even excess O2 gives further SO3, so mostly SO2

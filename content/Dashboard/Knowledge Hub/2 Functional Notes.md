@@ -139,10 +139,10 @@ cssclasses:
 			- [[Unit stopping due to ACC high]]
 		- **C Schemes made by me**
 			- **Switchgear Scheme**
-				- [[CWPH, FWPH & CT]]
-				- [[Miscellaneous Switchgear]]
-				- [[RWPH, FOPH & ASPH]]
-				- [[Total Switchgear scheme]]
+				- [[CWPH, FWPH & CT Drawing]]
+				- [[Miscellaneous Switchgear Drawing]]
+				- [[RWPH, FOPH & ASPH Drawing]]
+				- [[Total Switchgear scheme Drawing]]
 			- [[Boiler drains scheme]]
 			- [[Bottom De-ashing scheme]]
 			- [[Drains Scheme Notes]]
@@ -255,7 +255,7 @@ cssclasses:
 	- [[Subramanyam TS]]
 - **Simple Organized Home**
 	- [[Bedroom-1]]
-	- [[Device naming Convention - Drawing]]
+	- [[Device naming Convention Drawing]]
 - **z Other Notes**
 	- [[Data organizing details]]
 	- [[IEMI details]]

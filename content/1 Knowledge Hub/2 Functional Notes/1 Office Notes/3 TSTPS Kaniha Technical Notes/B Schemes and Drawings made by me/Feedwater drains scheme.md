@@ -1,2 +1,2 @@
 
-![](https://i.imgur.com/dQ2PejG.png)
+![[dQ2PejG - Imgur.png]]

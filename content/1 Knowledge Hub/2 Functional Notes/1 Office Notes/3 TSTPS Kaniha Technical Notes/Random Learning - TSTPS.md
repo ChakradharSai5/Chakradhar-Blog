@@ -166,10 +166,7 @@ date: "true"
     
     - we have to actually dead the bus and then charge it again is what happening in stage-1 as stage-1 logic of trip selection is not available or any other reason it is not clear, but for LT trip selection is there accordingly, changeover happens,but in HT usually bus is made dead and then charged again
 - **VACCUM IN STAGE-1**
-	-![p4j4STu.png](https://i.imgur.com/p4j4STu.png)
-		- 
-		![](https://i.imgur.com/p4j4STu.png)
-    
+- ![[p4j4STu.png]]
 - **OFFSITE ash handling:**
     
     - • Indure company 15cr package

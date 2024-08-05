@@ -1,2 +1,3 @@
 #pending 
-![](https://i.imgur.com/hrZDOZz.jpeg)
+
+![[hrZDOZz - Imgur.jpg]]

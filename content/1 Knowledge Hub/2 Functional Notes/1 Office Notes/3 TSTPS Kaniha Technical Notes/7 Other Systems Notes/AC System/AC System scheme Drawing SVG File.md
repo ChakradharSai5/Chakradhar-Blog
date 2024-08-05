@@ -1,0 +1,1 @@
+![[AC Systme scheme Drawing.svg]]

@@ -1,0 +1,1 @@
+![[Miscellaneous Switchgear Drawing.svg]]

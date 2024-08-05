@@ -2,4 +2,4 @@
 - Enargo tank make up is from only BALP
 - Fly ash water tank or FAWT make up is from two sources one is Blowdown  & other is from BALP
 - scheme available at[[Bottom De-ashing scheme]] 
-- Hopper gates opening logic at 3-4ksc, we usually get around 7ksc from BALP
+- Hopper gates opening logic at 3-4ksc, we usually get around 7ksc from BALP![[FcSZm1k - Imgur 1.png]]

@@ -4,8 +4,8 @@ Delta P= − (∑ ULSP)
     - You can either change ULSP(affects inversely)
     - Or you can limit AGC SP coming from NLDC by changing unit load capabilities(affects proportionally )
 #pending to excalidraaw
+![[p8rcac8 - Imgur.png]]
 
-![](https://i.imgur.com/p8rcac8.png)
 ## AGC
 
 - Primary control – RGMO/FGMO

@@ -15,8 +15,7 @@
 - Source of water:
     - Samal Barrage on River Brahmani
     - Downstream of rengali dam, upstream of samal barrraige
-
-![](https://i.imgur.com/NeTqmb5.png)
+![[NeTqmb5 - Imgur.png]]
 
 - - Transmission Lines :
     - 220 KV(4 No.), GRIDCO

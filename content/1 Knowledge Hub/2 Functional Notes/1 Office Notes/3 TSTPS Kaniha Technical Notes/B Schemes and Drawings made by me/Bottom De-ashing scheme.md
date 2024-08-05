@@ -1,9 +1,10 @@
 #pending  to excalidraw
 
-![](https://i.imgur.com/sqZPvVZ.png)
+![[sqZPvVZ - Imgur.png]]
 
-![](https://i.imgur.com/FcSZm1k.png)
+![[z-All pdfs & images/FcSZm1k - Imgur.png]]
+![[HOWf6cW - Imgur.png]]
 
-![](https://i.imgur.com/HOWf6cW.png)
 
-![](https://i.imgur.com/ekti4uW.png)
+![]()
+![[ekti4uW - Imgur.png]]

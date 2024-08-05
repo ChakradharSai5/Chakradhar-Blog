@@ -1,0 +1,1 @@
+![[Obsidian Synch System Drawing.svg]]

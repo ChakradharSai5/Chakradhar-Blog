@@ -1,0 +1,1 @@
+![[KMS System Scheme Drawing.svg]]

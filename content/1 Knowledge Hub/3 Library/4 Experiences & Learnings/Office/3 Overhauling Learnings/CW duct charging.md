@@ -22,8 +22,11 @@
     - TDBFPs solo run will be done while stopping the unit
 
 # below diagrams to be made to excalidraw #pending 
+![[rfGrXNT - Imgur.png]]
 
-![](https://i.imgur.com/rfGrXNT.png)
 
-![](https://i.imgur.com/sXE6miv.png)
+
+![[sXE6miv - Imgur.png]]
+
+
 

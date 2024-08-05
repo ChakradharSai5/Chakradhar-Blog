@@ -3,8 +3,8 @@
     - Compressor and receiver tank. Instrument air requirement for DM plant and CPU regeneration plant are directly supplied from the DM plant instrument air header near compressor house 
     - #pending - below drawing to be done in excalidraw
     - 
-![](https://i.imgur.com/T4yoN1Z.jpeg)
 
+![[T4yoN1Z - Imgur.jpg]]
 
 # **POSSIBLE REASONS FOR TOTAL FAILURE OF INSTRUMENT AIR SUPPLY:**
 

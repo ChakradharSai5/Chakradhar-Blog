@@ -20,8 +20,8 @@
 	- yokogawa in NTPC at  vindyachal, barh, kudgi - he worked in iocl - yokogawa, 
 	- he was given only one month training, then directly to site
 - Senapaty sir children took training in this allen institute
-	- ![](https://i.imgur.com/RxPGUew.png)
 
+![[RxPGUew - Imgur.png]]
 - Sarkar
 	- Got transferred to 
 - Amulya

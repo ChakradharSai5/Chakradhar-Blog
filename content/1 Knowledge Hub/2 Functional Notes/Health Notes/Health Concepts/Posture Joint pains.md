@@ -7,6 +7,6 @@
     - Sitting 3hrs continuity disk gets thinner, fluid comes out, so
         - Get up every hour and drink water and walk
 - 
-![](https://i.imgur.com/4P9xdV3.png)
 
-![](https://i.imgur.com/W0XG6QD.png)
+![[4P9xdV3 - Imgur.png]]
+![[W0XG6QD - Imgur.png]]

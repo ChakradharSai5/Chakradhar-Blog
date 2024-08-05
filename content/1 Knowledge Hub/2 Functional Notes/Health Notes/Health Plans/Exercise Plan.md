@@ -8,4 +8,5 @@ After I get enough confidence after may be 2-3 months I will change my exercise 
     - Shoulders
 - Workout A -Chest Triceps Shoulders
 - Workout B Back, Biceps Shoulders
-![](https://i.imgur.com/ayVOgYZ.png)
+
+![[ayVOgYZ - Imgur.png]]

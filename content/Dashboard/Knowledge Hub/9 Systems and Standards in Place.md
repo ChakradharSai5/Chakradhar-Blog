@@ -15,16 +15,16 @@ cssclasses:
 		- [[ADD-ONS]]
 	- [[BASE & ADD-ONS DRAWING]]
 - **2 KMS**
-	- [[KMS System Scheme]]
+	- [[KMS System Scheme Drawing]]
 	- [[Rules of KMS System]]
 - **3 TMS**
 - **Exercise & Diet**
 	- [[1 Knowledge Hub/9 Systems, Standards & Plans in Place/Exercise & Diet/Diet Plan|Diet Plan]]
 	- [[1 Knowledge Hub/9 Systems, Standards & Plans in Place/Exercise & Diet/Exercise Plan|Exercise Plan]]
 - **Laptop and Drive**
-	- [[Laptop Folder Scheme]]
+	- [[Laptop Folder Scheme Drawing SVG File]]
 - **Travel**
 	- [[Travel Rules]]
 - [[Definitions]]
-- [[Obsidian Synch System - Drawing]]
--  [[Device naming Convention - Drawing]]
+- [[Obsidian Synch System Drawing]]
+-  [[Device naming Convention Drawing]]
