@@ -1,0 +1,1 @@
+![[Solenoid Vs Relay Drawing.svg]]![[Solenoid Vs Relay Drawing]]

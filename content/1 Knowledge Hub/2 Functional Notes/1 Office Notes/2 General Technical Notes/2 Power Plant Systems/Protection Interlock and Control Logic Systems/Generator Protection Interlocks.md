@@ -15,7 +15,7 @@ Class-A1 comprises the faults that need immediate isolation of the **generator**
 - **Generator Differential Protection(87G)**
 ?
     The relay detects winding faults by identifying discrepancies in the stator winding's incoming and outgoing current..
-<!--SR:!2024-07-05,1,228-->
+<!--SR:!2024-08-10,2,228-->
 
 - **Generator Over Voltage Protection(59)**
     ?

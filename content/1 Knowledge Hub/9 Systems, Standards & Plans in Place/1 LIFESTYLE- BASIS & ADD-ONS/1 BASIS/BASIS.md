@@ -1,3 +1,4 @@
+![[BASIS Drawing.svg]]
 ## BASE Routines
 ### Morning Routine - Daily
 Reminder each set in Google Tasks, and reminder set accordingly to shift
@@ -20,7 +21,7 @@ When went to office at the start
 - Shift to obsidian text file should be used for all intends and purposes
 ### Exercise Routines - Rotaly
 - On 1E, 1N & 1G shifts morning from 0615Hrs
-- [[1 Knowledge Hub/9 Systems, Standards & Plans in Place/Exercise & Diet/Exercise Plan|Exercise Plan]]
+- [[1 Knowledge Hub/9 Systems, Standards & Plans in Place/Facets Systems & Standards/Health  S&S/Exercise Plan|Exercise Plan]]
 
 ## MAINTANANCE ROUTINES
 ### Home Organizing - Monthly

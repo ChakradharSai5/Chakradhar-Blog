@@ -15,3 +15,8 @@ Secondary control – AGC
 Incentive @ 50ps/kwhr of over and above normative energy
 
 Teritirary control-  RRAS
+
+- Here at kaniha, in CMC, the MW demand signal that is getting generated is
+	- Setpoint - AGC correction
+	- **NOT** setpoint - AGC correction - RGMO, 
+- so that means I guess this RGMO command is directly going to Turbine command after this MW demand signal from CMC #pending 

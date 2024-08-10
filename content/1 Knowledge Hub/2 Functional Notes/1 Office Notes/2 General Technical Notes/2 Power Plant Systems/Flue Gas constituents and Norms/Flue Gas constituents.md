@@ -33,7 +33,7 @@
 - Prompt Nox - *Not needed*
 - N20- *Not needed*
 - NNH - At very high temperatures- like welding torches- *Not needed*
-<!--SR:!2024-07-06,3,250-->
+<!--SR:!2024-08-17,9,250-->
 
 #### How to control Nox Emissions??
 ?

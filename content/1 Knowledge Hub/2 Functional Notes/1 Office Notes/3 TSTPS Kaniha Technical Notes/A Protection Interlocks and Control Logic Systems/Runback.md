@@ -12,7 +12,7 @@ RUN BACK:
         8. Turbine Tripped to **300MW**
         9. MFT operated to **0MW**
     3. Run back rate default set at **87.5MW/minute**
-    4. When runback acts Mill if running more than 3 mills, brings to 3 mills, by tripping top Mill/Mills/Mill sides
+    4. When runback acts Mill if running more than 3 mills, brings to 3 mills, by tripping top Mill/Mills/Mill sides, actually brings to 6 feeders, how many ever feeders running, top feeders.
     4. Unit may be running in whichever mode - CMC or BF, it trips to TF mode, causing Turbine to Initial pressure mode, so that Turbine CV gets full open causing max load possible at that time to be at disposal
     5. My understanding -
         A.  when  say some drive tripped and run back acted - Unit comes to TF if not already, and if already in CMC then Load SP of 325MW or 300MW or 0MW goes to Boiler master and in turn to Mill master causing to Mill demand signal to decrease

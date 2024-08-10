@@ -1,3 +1,4 @@
+![[Bike Starting mechanism Drawing.svg]]
 ### Gear mechanism of Starter motor  
 - pinion has to have heavy torque, as it has to rotate  fly wheel, along with compression of air fuel miture for combustion- that is connected to flywheel is need to done, and engine has to go decent speed atleast 100rpm- if less,then less suction will be in cylinders.
 - due to reduction of gear teeth from pinion(here 8) and flywheel(112), torque from pinion gets multiplied 14times, even with  of torque mutliplication, it is toruqe will not be enough, so

@@ -32,7 +32,7 @@ cssclasses:
 	- [[Short Film Ideas I can easily do]]
 - **Machines Such**
 	- **Bike Starting Mechanism**
-		- [[Bike Starting mechanism Note]]
+		- [[Bike Starting mechanism]]
 		- [[Bike Starting mechanism Drawing]]
 	- **Solenoid Vs Relay**
 		- [[Solenoid Vs Relay Note]]

@@ -295,3 +295,15 @@ LIGHT up random learnings:
 - So now they are simply reversing it,. For safe isolation and normalization
 ### Vacuum pump command in St-1 TSTPS
 - Vacuum pump command in TG is in a SR flip flop type way, so it is a KIND of a continuous command,  
+
+- Vertical strainer drain of TDBFP is going to TG flash tank at 8.5Mtr
+- there is an oil gun cleaning line from steam in 32Mtr or 45Mtr, hat is used for oil gun cleaning
+- DG-2 level should be maintained above 85%
+
+### Cold junction compensation
+- Temperature probesif CJC wasa not on, it compensates temperature value to show exact value if it is off, it will show atmospheric temperature added say around 30DegC extra added
+
+
+In stage-1 we have gravimetric feeders so we don't have load cell, and we need to caliberate like some kg/ 60sec like that
+
+
