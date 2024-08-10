@@ -5,7 +5,7 @@ date: "true"
     - after loading TDBFP , make sure both suction flow maintaining around same value then put TDBFP remote permissive ok, then put TD in auto, later put MD scoop in auto. now you can give SP from FW station in manual. [[Pni]]
 
 - - **LPBP protection checking**
-    - [[1 Knowledge Hub/2 Functional Notes/1 Office Notes/3 TSTPS Kaniha Technical Notes/LPBP]] tripping on spray water pr low is in switch 
+    - [[1 Knowledge Hub/2 Functional Notes/1 Career Notes/3 TSTPS Kaniha Technical Notes/LPBP]] tripping on spray water pr low is in switch 
 - - [[Service air pressure]]
     - goes to only GGG, APH air motors and now atomizing of LDO. & instrument air to only valve operation
 - Unit 2 [[Overhauling]] around 9200 joints in 2022

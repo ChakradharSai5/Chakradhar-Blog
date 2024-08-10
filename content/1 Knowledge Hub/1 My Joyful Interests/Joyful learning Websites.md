@@ -36,10 +36,6 @@
 
 
 https://www.animations.physics.unsw.edu.au/
-
-
-
-
 <div class="rich-link-card-container"><a class="rich-link-card" href="http://giza.fas.harvard.edu/" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('http://giza.fas.harvard.edu/static/apple-touch-icon.png')">

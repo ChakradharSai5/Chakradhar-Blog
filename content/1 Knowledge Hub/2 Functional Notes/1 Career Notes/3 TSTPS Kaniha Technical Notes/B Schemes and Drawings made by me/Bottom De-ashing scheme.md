@@ -2,7 +2,7 @@
 
 ![[sqZPvVZ - Imgur.png]]
 
-![[z-All pdfs & images/FcSZm1k - Imgur.png]]
+![[FcSZm1k - Imgur.png]]
 ![[HOWf6cW - Imgur.png]]
 
 
