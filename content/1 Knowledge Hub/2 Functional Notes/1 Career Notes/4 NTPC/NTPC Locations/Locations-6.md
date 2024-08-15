@@ -15,3 +15,9 @@
 	- a JV with Bihar goverement, aquired in 2018, got stopped in 2003, established in some 80s
 
 - Koldam to Chandigarh just about 4 hrs
+- Gadarwara-as said by Denish-as his training was at Gadarwara, it relatively new plant so township is very good, and the 
+	- Nearest city is Gadarwara itself which is 30mins, that is on par with Angul, road is also very good, NTPC made the road
+	- next nearest is Jabalpur, that is on par with Bhubaneswar travel of 2hours, road is also very good
+	- next nearest is Bhopal & also Indore which would be 4Hrs roughly
+	- Good township, Good documentation of plant schemes very colorful documents, Denish has shown, it looks very promising
+	- He also added that Khargone is also ok, but among both these, Gadarwara is better as far from tribal area unlike Khargone

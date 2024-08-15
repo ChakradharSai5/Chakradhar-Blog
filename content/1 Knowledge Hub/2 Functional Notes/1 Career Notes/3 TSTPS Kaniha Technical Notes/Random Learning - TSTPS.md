@@ -1,6 +1,8 @@
 ---
 date: "true"
 ---
+- For MLDB there are two sources each from SSS-A & SSS-B
+- For welding DB single source only from SSS-A
 - **To put MDBFP & TDBFP in auto**
     - after loading TDBFP , make sure both suction flow maintaining around same value then put TDBFP remote permissive ok, then put TD in auto, later put MD scoop in auto. now you can give SP from FW station in manual. [[Pni]]
 
